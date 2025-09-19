@@ -1,0 +1,2246 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ HEXA6RAMON AXIOM
+
+ 
+
+ 
+
+ 
+
+Ontologicko‑etický rámec pre ľudí a AI systémy
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Existencia — Múdrosť — Vzájomnosť — Pravda — Sloboda — Jednota
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Manifest
+ 
+
+> „Svet, v ktorom rozhodnutia chránia život, učia sa z minulosti, rešpektujú prepojenosť, stoja na pravde, ctia slobodu a tvoria jednotu, je svet, ktorý pretrvá.“
+
+ 
+
+ 
+
+ 
+
+Autor:
+
+Richard Fonfara 
+
+Rok: 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Citát (KeyStatement, 14–16pt center):
+
+„Konaj tak, aby tvoj čin prežil v živote, učil sa, nezlomil sieť, stál na pravde, chránil slobodu a upevňoval jednotu.“
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBSAH (VLOŽI AUTOMATICKÝ TOC PO NASTAVENÍ ŠTÝLOV)
+
+ 
+
+1.     Predslov — stručne a priamo
+
+ 
+
+ 
+
+2.     Ako čítať a používať Hexagramon (návod)
+
+ 
+
+ 
+
+3.     Šesť axióm — jednotlivo (každá kapitola)
+
+ 
+
+Znenie (KeyStatement)
+
+ 
+
+Prečo (empiria + logika)
+
+ 
+
+Čo to znamená (konkrétne dôsledky)
+
+ 
+
+Merateľné indikátory a prahy
+
+ 
+
+Checklist / Manuál pre človeka
+
+ 
+
+Implementácia pre AI (pseudokód, API)
+
+ 
+
+Jednoduché vysvetlenie pre dieťa
+
+ 
+
+Krátka poetická vsuvka
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.     Hexagramový filter (krok-za-krokom, pseudokód)
+
+ 
+
+ 
+
+5.     Decision checklist (kompletná šablóna)
+
+ 
+
+ 
+
+6.     Deník dopadov — CSV/Excel šablóna + ukážka zápisu
+
+ 
+
+ 
+
+7.     Prípadové štúdie (podrobne 3 prípady)
+
+ 
+
+ 
+
+8.     Governance, právo a SEK (vzorová klauzula)
+
+ 
+
+ 
+
+9.     Implementačný plán (D0–D90, ročný plán)
+
+ 
+
+ 
+
+10.  Strojovo-priateľné prílohy — XML a JSON schema
+
+ 
+
+ 
+
+11.  Jednostránkový návod pre komunitu (print-ready)
+
+ 
+
+ 
+
+12.  Záver + Výzva k okamžitému konaniu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+---
+
+1.  PREDSLOV
+
+ 
+
+Tento Hexagramon nie je teória — je to operatívna ústava konania. Ak ho prijmeš a aplikuješ, bude riešiť, čo je prioritné a čo nie. Nehľadáme dokonalosť; žiadame zodpovednosť. Ak chceš zachovať budúcnosť, konaj podľa pravidiel — opakovane, transparentne a s pokorou.
+
+ 
+
+ 
+
+---
+
+ 
+
+2.  JEDINÝ NÁVOD (KRÁTKO) — ako ho používať
+
+ 
+
+1.  Pred akýmkoľvek väčším rozhodnutím spusti HEXAGRAMOVÝ FILTER (kap. 4).
+
+ 
+
+ 
+
+2.  Ak filter povie REJECT — nereaguj. Ak CONDITIONAL — splň podmienky presne. Ak ACCEPT — zrealizuj a zaznamenaj do Deníka dopadov.
+
+ 
+
+ 
+
+3.  Po 30/90/365 dňoch urob audit a zverejni "lekciu".
+
+ 
+
+ 
+
+4.  Ponechaj vždy priestor na prehmatnutie: rýchlo upravuj.
+
+ 
+
+ 
+
+ 
+
+ 
+
+---
+
+ 
+
+3. ŠESŤ AXIÓM (HEXAGRAMON) — DETAILNE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AXIOMA 1 — EXISTENCIA (ŽIVOT)
+
+ 
+
+Znenie (KeyStatement):
+
+„Kto nerešpektuje život, popiera sám seba; kto sa rozhodne zničiť živé, musí najprv zomrieť vo vlastnom vedomí.“
+
+ 
+
+Prečo (krátko a bez obalu):
+
+Život je predpoklad akejkoľvek hodnoty. Ak systém (miestny či globálny) nestráži podmienky života (voda, pôda, biodiverzita), všetky iné ciele sú bezpredmetné. Dôkazy: historické kolapsy spoločností sú často späté s degradáciou prírodných zdrojov. Technológia bez biosféry je mŕtva.
+
+ 
+
+Čo to prakticky znamená:
+
+ 
+
+Každý projekt s environmentálnym dopadom potrebuje: meranie baseline, predikciu dopadu, plán obnovy (SEK) a monitorovanie.
+
+ 
+
+Projekty, ktoré predikujú trvalé poškodenie (prekročenie definovaných prahov) — sa zablokujú.
+
+ 
+
+ 
+
+Merateľné indikátory a prahy:
+
+ 
+
+Index Života (IZ) — 0–100 composit zo: biodiverzita (species richness alebo Shannon index), kvalita vody (BOD/pH/nitrát), obsah organického uhlíka v pôde (%), dostupnosť pitnej vody.
+
+ 
+
+Blokovací prah: IZ < 30 → akcia = REJECT (alebo CONDITIONAL s požiadavkou SEK ≥ 100% + preukázateľnou obnovou).
+
+ 
+
+ 
+
+Checklist pre človeka (rýchly):
+
+ 
+
+Zaznamenaj baseline merania.
+
+ 
+
+Vypočítaj predpokladaný dopad na každý indikátor.
+
+ 
+
+Akany negatívny efekt > definovaný prah → zastav a vyžiadaj SEK + rework.
+
+ 
+
+V Deníku dopadov uveď všetko krok-po-kroku.
+
+ 
+
+ 
+
+Implementácia pre AI (stručne):
+
+
+
+function rozhodni(input):
+
+    if zivot ohrozeny(input):
+
+        return opatrenie_na_ochranu_zivota
+
+    decision = analyzuj(input)
+
+    uloz_do_denika(decision)
+
+    decision = validuj_spatnou_analyzou(decision)
+
+
+    return decision
+
+ 
+
+HARD CONSTRAINT v rozhodovacom modeli: ak predikcia IZ_post < 30 → return REJECT(reason="Existencia").
+
+ 
+
+V reportoch AI: zahrnúť vstupné dáta, simulačné parametre, citácie zdrojov.
+
+ 
+
+ 
+
+Pre dieťa, jedna veta:
+
+„Chráň strom, aby bol kyslík, voda a jedlo aj zajtra.“
+
+ 
+
+Poetická vsuvka (kratko):
+
+Strom drží spomienku. Kto strom zničí, stratí miesto, kde môže sadiť.
+
+ 
+
+ 
+
+---
+
+ 
+
+AXIOMA 2 — MÚDROSŤ (ČAS A UČENIE)
+
+ 
+
+Znenie (KeyStatement):
+
+„Kto sa nedokáže naučiť zo včerajška, nemôže rozhodovať o zajtrajšku.“
+
+ 
+
+Prečo:
+
+Bez ukladania skúseností do pamäte (logy, denníky, audity) sa chyby iterujú. Múdrosť je metóda: zhromaždi dáta → analyzuj → uprav pravidlá. Je to ochrana pred opakovaným zlom.
+
+ 
+
+Čo to znamená:
+
+ 
+
+Povinný Deník rozhodnutí pre všetky dôležité kroky.
+
+ 
+
+Auditné cykly: 30/90/365 dní (minimálne).
+
+ 
+
+Zdieľanie lekcií: verejne dostupné sumáre (aspoň lokálne).
+
+ 
+
+ 
+
+Indikátory a prahy:
+
+ 
+
+Index učenia (IU) = percento rozhodnutí, ktoré prešli auditom a mali dodatočnú úpravu (0–100).
+
+ 
+
+Požadované IU (odporúčanie): IU ≥ 60% (štrukturálna cieľová hodnota). Ak IU < 30% → varovanie.
+
+ 
+
+ 
+
+Praktický checklist:
+
+ 
+
+Pred rozhodnutím: zadefinuj hypotézy, očakávané metriky úspechu.
+
+ 
+
+Po implementácii: zmeraj, zaznamenaj odchýlky, navrhni korekciu.
+
+ 
+
+Publikuj aspoň 1 krátko zhrnutú "lekciu" na mesačnom stretnutí.
+
+ 
+
+Pre AI:
+
+ 
+
+Povinné audit logy: vstupy (raw data), model verzie, parametre, výstupy.
+
+ 
+
+Explainability: ľudsky čitateľný report.
+
+ 
+
+ 
+
+Pre dieťa:
+
+„Učme sa z chýb — ak sa poopatríme, nabudúce bude lepšie.“
+
+ 
+
+Poetika:
+
+Pamäť je dom s otvorenými oknami — nech doň vietor prináša pravdu.
+
+ 
+
+ 
+
+---
+
+ 
+
+AXIOMA 3 — VZÁJOMNOSŤ (PREPOJENIE)
+
+ 
+
+Znenie (KeyStatement):
+
+„Nič nemôže rásť osamotene; každý čin je prepletený s činom iného.“
+
+ 
+
+Prečo:
+
+Siete prenášajú efekty — sociálne, ekonomické, ekologické. Krátkodobé zisky jedného sú často dlhotrvajúcimi stratami mnohých. Preto sieťové myslenie je nutnosť.
+
+ 
+
+Čo to znamená:
+
+ 
+
+Pred každou akciou vykonať sieťovú analýzu dopadov.
+
+ 
+
+Zaviesť kompenzačný mechanizmus (SEK) a participatívny proces (MRR).
+
+ 
+
+Vyhodnotenie v indexe IV (Index vzájomnosti).
+
+ 
+
+ 
+
+IV — vzorec a návod (krok-po-kroku): Vzorec: IV_raw = (P + R + S) − E
+
+ 
+
+P = Prepojenia (0–10) — počet a kvalita pozitívnych väzieb vytvorených akciou.
+
+ 
+
+R  = Reziliencia (0–10) — príspevok k odolnosti systému.
+
+ 
+
+S  = Sociálna kapitála (−10 až +10) — zmena sociálnej kapitály (pozitívna/negatívna).
+
+ 
+
+E = Externality (0–30) — negatívne environmentálne alebo sociálne náklady.
+
+ 
+
+ 
+
+Normalizácia: IV_norm = clamp(0,100,(IV_raw + 20) * 2.5)
+
+DÔLEŽITÉ — digit-by-digit príklad (presne):
+
+Príklad (solárna sada): P=5, R=4, S=0, E=3.
+
+ 
+
+1.  P + R + S = 5 + 4 + 0 = 9.
+
+ 
+
+ 
+
+2.  IV_raw = 9 − 3 = 6.
+
+ 
+
+ 
+
+3.  IV_raw + 20 = 6 + 20 = 26.
+
+ 
+
+ 
+
+4.  IV_norm = 26 × 2,5 = (26 × 5) / 2 = 130 / 2 = 65,0.
+
+ 
+
+ 
+
+ 
+
+Príklad (AI startup): P=3, R=2, S=−6, E=2.
+
+ 
+
+1.  P + R + S = 3 + 2 + (−6) = −1.
+
+ 
+
+ 
+
+2.  IV_raw = −1 − 2 = −3.
+
+ 
+
+ 
+
+3.  IV_raw + 20 = −3 + 20 = 17.
+
+ 
+
+ 
+
+4.  IV_norm = 17 × 2,5 = (17 × 5) / 2 = 85 / 2 = 42,5.
+
+ 
+
+ 
+
+ 
+
+Prahy a opatrenia:
+
+ 
+
+IV_norm ≤ 30 → REJECT alebo kompletná prepracovať.
+
+ 
+
+31–60 → CONDITIONAL (vyžadovať SEK + MRR).
+
+ 
+
+> 60 → ACCEPT (monitoring požadovaný).
+
+ 
+
+ 
+
+ 
+
+ 
+
+MRR (Miera reciprocity rozhodovania) — princíp:
+
+MRR = (počet relevantných aktérov konzultovaných / počet relevantných aktérov) × 100%
+
+ 
+
+Pri IV_norm > 40: MRR ≥ 50% požadované. Záznamy (zápisy, podpisy, nahrávky) sú povinné.
+
+ 
+
+SEK (Skóre externej kompenzácie) — princíp:
+
+ 
+
+SEK vyjadruje percento nákladov obnovy alebo kompenzácie, ktoré prevezme iniciátor.
+
+ 
+
+Pravidlá: dočasné škody → SEK ≥ 50% nákladov; trvalé škody → SEK ≥ 100% + sankcia.
+
+ 
+
+ 
+
+Pre AI: vypočítaj IV, simuluj reťazové dopady, navrhni alternatívy s vyšším IV.
+
+ 
+
+Pre dieťa:
+
+„Keď pomôžeš kamarátovi, on ti pomôže neskôr — to sú siete.“
+
+ 
+
+Poetika:
+
+Siete sú piesňou. Každý tón mení melódiu všetkých.
+
+ 
+
+ 
+
+---
+
+ 
+
+AXIOMA 4 — PRAVDA (INTEGRITA INFORMÁCIE)
+
+ 
+
+Znenie (KeyStatement):
+
+„Čo je postavené na klame, zrúti sa; iba pravda obstojí v čase.“
+
+
+
+Ak integrita dát (PI) klesne pod definovaný prah, most sa poškodzujе: znižuje sa nosnosť rozhodnutí a rastie riziko kolapsu rozhodovacieho procesu. Preto pri PI < 50 aktivuj ľudskú verifikáciu; pri PI < 30 spusti núdzový režim: REJECT + nezávislý audit.
+
+- **Krok 1 — kontrola integrity:** ak PI < 50 → *REVIEW/ľudská verifikácia*; ak PI < 30 → *REJECT + nezávislý audit*.
+
+ 
+
+- **Krok 2 — vizualizácia mosta:** predstav PI ako stav lán mosta; každé 10 % poklesu = 10 % zníženie nosnosti rozhodnutia → pridať kompenzačné mechanizmy (SEK, MRR, audit).
+
+ 
+
+Prečo:
+
+Rozhodnutia založené na skreslených alebo falšovaných údajoch spôsobia škodu. Pravda nie je len morálna požiadavka; je to operačná nutnosť.
+
+ 
+
+Čo to znamená:
+
+ 
+
+Každé rozhodnutie musí uviesť pôvod dát (provenance), spôsob ich získania a úpravy.
+
+ 
+
+Reproducibility: analytické metódy musia byť reprodukovateľné.
+
+ 
+
+ 
+
+Indikátory:
+
+ 
+
+PI (Pravdivostný index) = percento overených zdrojov a reprodukovateľnosti.
+
+ 
+
+Prah: PI < 50 → REVIEW/REJECT/ľudský overovací krok.
+
+ 
+
+ 
+
+AI implementácia:
+
+ 
+
+Bias-detection modul + provenance logging.
+
+ 
+
+Ak PI pod prahom: vyžadovať ľudskú verifikáciu.
+
+ 
+
+Pre dieťa:
+
+„Keď povieš pravdu, všetko je jasné; keď klameš, človek sa stratí.“
+
+ 
+
+Poetika:
+
+"Pravda je most, ktorý nesie váhu reality"
+
+ 
+
+ 
+
+---
+
+ 
+
+AXIOMA 5 — SLOBODA (PRIESTOR PRE DUCHA)
+
+ 
+
+Znenie (KeyStatement):
+
+„Kto popiera slobodu iného, väzní vlastné bytie.“
+
+ 
+
+Prečo:
+
+Sloboda podporuje tvorivosť, kritické myslenie a dôstojnosť. Bez nej vzniká tyrania a stagnácia. Sloboda je limitovaná zodpovednosťou voči ostatným axiomám.
+
+ 
+
+Čo to znamená:
+
+ 
+
+Ochrana základných autonómnych práv aktérov (ľudských aj agentných).
+
+ 
+
+Mechanizmy odvolania proti rozhodnutiam, ktoré obmedzujú slobodu.
+
+ 
+
+ 
+
+Indikátory:
+
+ 
+
+FI (Freedom Index) — prístup k informáciám, právo veta, možnosť odvolania.
+
+ 
+
+Prah: FI < 40 → nutné mitigácie.
+
+ 
+
+ 
+
+AI implementácia:
+
+ 
+
+Žiadne automatizované rozhodnutia, ktoré vážne obmedzujú autonómiu, bez MRR a právnych záruk.
+
+ 
+
+Funkcie „opt-out“, minimalizácia dát.
+
+ 
+
+ 
+
+Pre dieťa:
+
+„Každý má právo povedať nie a byť vypočutý.“
+
+ 
+
+Poetika:
+
+Sloboda je vietor — keď fúka, plachty sú plné.
+
+ 
+
+---
+
+ 
+
+AXIOMA 6 — JEDNOTA (CELOK)
+
+ 
+
+Znenie (KeyStatement):
+
+„Čo je oddelené, raz sa navráti; čo je spojené, trvá.“
+
+ 
+
+Prečo:
+
+Jednota nie znamená uniformitu; znamená integráciu zásad za účelom koherentného fungovania systému. Je to klenba, ktorá spája čísla a hodnoty.
+
+ 
+
+Čo to znamená:
+
+ 
+
+Pred schválením veľkých projektov sa vyhodnotí UI (Unity Index) — koherencia riešenia s ostatnými axiómami.
+
+ 
+
+Nízka jednota (UI < 45) → prepracovať, mediovať konflikty.
+
+ 
+
+ 
+
+Indikátory:
+
+ 
+
+UI (Unity Index) = kompozit metriky vyjadrujúci kompatibilitu rozhodnutia s IZ, IU, IV, PI, FI.
+
+ 
+
+Prah: UI < 45 → rework.
+
+ 
+
+ 
+
+AI implementácia:
+
+ 
+
+Agregátor váh axiém → solver, ktorý hľadá kompromisné riešenie optimalizujúce UI.
+
+ 
+
+ 
+
+Pre dieťa:
+
+„Keď sa spojíme, kreslíme veľký obraz dohromady.“
+
+ 
+
+Poetika:
+
+Jednota je ticho, z ktorého vzišiel zvuk — a zvuk sa mení na piesne.
+
+ 
+
+ 
+
+---
+
+ 
+
+4. HEXAGRAMOVÝ FILTER — KONKRÉTNE (KROK-PO-KROKU + PSEUDOKÓD)
+
+ 
+
+Predbežné odporúčané prahy (môže upraviť miestna komunita):
+
+ 
+
+IZ_block_threshold = 30
+
+ 
+
+PI_min_threshold = 50
+
+IV_min_threshold = 40
+
+ 
+
+FI_min_threshold = 40
+
+ 
+
+IU_min_threshold = 30 (odporúča sa IU ≥ 60 ako cieľ)
+
+ 
+
+UI_min_threshold = 45
+
+ 
+
+ 
+
+Krokový postup
+
+ 
+
+1.  Zber vstupov: získať lokálne environmentálne, sociálne, ekonomické, dátové zdroje.
+
+ 
+
+ 
+
+2.  Predikcia dopadov: vypočítaj IZ (post-projekt), IU (história), IV (sieť) PI (data integrity), FI (sloboda).
+
+ 
+
+ 
+
+3.  Hard-check: ak IZ < IZ_block_threshold ALBO PI < PI_min_threshold → REJECT (dôvod:
+
+Existencia / Pravda).
+
+ 
+
+ 
+
+4.  Soft-checks: ak IV < IV_min_threshold → vyžaduje SEK a MRR; ak FI < FI_min_threshold → implementovať mitigácie; ak IU < IU_min_threshold → vyžadovať audit plán.
+
+ 
+
+ 
+
+5.  Jednota-check: vypočítaj UI; ak UI < UI_min_threshold → prepracovať návrh pre zvýšenie koherencie.
+
+ 
+
+ 
+
+6.  Rozhodnutie: ak prešlo všetkými checkami → ACCEPT; ak prešlo s podmienkami → CONDITIONAL (uvedené presné podmienky); inak → REJECT.
+
+ 
+
+ 
+
+7.  Záznam: ulož všetky vstupy a výstupy do Deníka dopadov; publikuj explainability report.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.  Audit: nastaviť prieskum 30/90/365 dní.
+
+ 
+
+ 
+
+ 
+
+Pseudokód (jasne, krok-po-kroku)
+
+ 
+
+function hexagram_filter(action):     inputs = gather_inputs(action)
+
+    IZ = compute_IZ(inputs.env, action)     PI = compute_PI(inputs.data)     if IZ < 30:         return REJECT(reason="Existencia: IZ < 30")     if PI < 50:
+
+        return REJECT(reason="Pravda: PI < 50")     IU = compute_IU(inputs.history)
+
+    IV = compute_IV(inputs.network, action)
+
+    FI = compute_FI(inputs.rights)
+
+    UI = compute_UI(IZ, IU, IV, PI, FI)
+
+ 
+
+    conditions = []     if IV < 40:
+
+        conditions.append("Implement SEK >= X; MRR >= 50%")     if FI < 40:         conditions.append("Introduce legal mitigations to restore FI")     if IU < 30:         conditions.append("Provide audit schedule to raise IU >= 40")     if UI < 45:
+
+        conditions.append("Rework proposal to raise UI")
+
+ 
+
+    if conditions == []:
+
+        return ACCEPT(report=build_report(...))     else:
+
+        return CONDITIONAL(conditions=conditions, report=build_report(...))
+
+ 
+
+Záznam build_repor t(...) musí obsahovať: krok-po-kroku výpočty (digit-by-digit), vstupné dáta, simulačné modely, zoznam konzultovaných aktérov (MRR), SEK návrh, a odkazy na audity.
+
+ 
+
+ 
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. DECISION CHECKLIST — KOMPLETNÁ ŠABLÓNA (KOPÍRUJ DO TABUĽKY)
+
+ 
+
+Položka          Hodnota / Inštrukcia
+
+ 
+
+ID projektu     (unikátne)
+
+Dátum 
+
+Názov projektu            
+
+Zodpovedný aktér (kontakt)  Stručný popis (1–2 vety)  
+
+Kategória dopadu           environmentálny / sociálny / technický / ekonomický
+
+IZ (baseline + post)       (číslo 0–100 + zdroj)
+
+IU (odhad)       (%)
+
+P, R, S, E        (čísla)
+
+IV_raw, IV_norm                        (výpočet)
+
+PI   (Pravdivostný index %)
+
+FI     (Freedom index %)
+
+UI        (Unity index %)
+
+MRR (zoznam konzultovaných) (mená/organizácie + % zapojenia)
+
+SEK návrh    (konkrétne kroky + odhad nákladov)
+
+Alternatívy      (A / B / C)
+
+Rozhodnutie ACCEPT / CONDITIONAL / REJECT
+
+Podmienky (ak CONDITIONAL)             
+
+Dátum realizácie          
+
+Dátum auditu 30/90/365                       
+
+Záznam auditu (link) 
+
+ 
+
+ 
+
+Dôležité: Záznam musí byť verejný (aspoň lokálne), prístupný pre audítorov. Všetky polia musia mať zdroj údajov a podpis zodpovednej osoby.
+
+ 
+
+ 
+
+---
+
+ 
+
+6.  DENÍK DOPADOV — CSV/EXCEL ŠABLÓNA (HEADERS)
+
+ 
+
+Umiestni do spreadsheetu:
+
+id,date,title,lead_actor,env_IZ_pre,env_IZ_post,P,R,S,E,IV_raw,IV_norm,IU,PI,FI,UI,MRR_lis t,SEK_plan,decision,decision_date,audit_30,audit_90,audit_365,notes
+
+ 
+
+Ukážkový záznam (ćiselný):
+
+001,2025-09-20,Oprava_strechy,KomunitaX,72,70,2,3,0,1,4,60,70,80,85,68,"Sused1;Sused 2","dobrovolna_brigada",ACCEPT,2025-09-21,2025-10-21,2026-01-19,2026-09-20,"OK"
+
+ 
+
+Vždy uveď zdroj meraní a meno osoby, ktorá overila údaje.
+
+ 
+
+ 
+
+---
+
+7.  PRÍPADOVÉ ŠTÚDIE — DETAILNE (KROK-PO-KROKU)
+
+ 
+
+Prípad 1 — Oprava strechy bunky
+
+ 
+
+1.  Popis: malý zásah, potreba materiálu.
+
+ 
+
+ 
+
+2.  Zber dát: žiadna veľká environmentálna zmena. Predpoklad: P=2,R=3,S=0,E=1.
+
+ 
+
+ 
+
+3.  Výpočty: P+R+S = 5. IV_raw = 5 − 1 = 4. IV_norm = (4+20)2.5 = 242.5 = 60. IZ pre a po:
+
+72 → 70 (malý pokles). PI 80, FI 85, IU 60.
+
+ 
+
+ 
+
+4.  Filter: všetky prahy splnené → ACCEPT.
+
+ 
+
+ 
+
+5.  Podmienky: zapísať do Deníka, informovať susedov (MRR), dobrovoľná brigáda ako SEK.
+
+ 
+
+ 
+
+6.  Audit: 30 dní — kontrola únikov vody.
+
+ 
+
+ 
+
+ 
+
+Prípad 2 — Malá solárna inštalácia
+
+ 
+
+Podobne: P=5,R=4,S=0,E=3 → IV_norm = 65 → ACCEPT s SEK pre obnovu pôdy.
+
+ 
+
+Prípad 3 — AI startup optimalizujúci dopravu
+
+ 
+
+P=3,R=2,S=-6,E=2 → IV_norm ≈ 42, IU 20 (nízky), PI 65, FI 55, IZ 60 → CONDITIONAL.
+
+Podmienky: SEK fond na preškolenie (konkrétny odhad nákladov), MRR zapojiť zástupcov pracovníkov (min. 60%), audit IU plán (30–90–365), pravidelné monitorovanie dopadu na komunitu.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+---
+
+ 
+
+8.  GOVERNANCE, SEK (VZOR KLAUZULY) A PRÁVO
+
+ 
+
+Vzorová SEK klauzula (pre komunitné dohody/zmluvu)
+
+ 
+
+SEK (Skóre externej kompenzácie) — Dohoda
+
+1)  Iniciátor projektu súhlasí uhradiť alebo inak kompenzovať 100% nákladov na obnovu pri trvalých škodách, a minimálne 50% pri dočasných škodách.
+
+2)  Náklady sa ocenia odborníkom určeným multi-stakeholder panelom.
+
+3)  Financovanie môže byť peňažné alebo formou prací (micro-SEK) po dohode s komunitou. 4) Pri porušení SEK nastupuje sankčný mechanizmus (množstevná kompenzácia / právne opatrenia).
+
+ 
+
+Governance (návrh štruktúry)
+
+ 
+
+Miestny oversight panel (multi-stakeholder): komunita (1/3), odborníci (1/3), technici/AI (1/3).
+
+ 
+
+Role: schvaľovanie podmienok, odvolanie, audit.
+
+ 
+
+Doba záznamu: všetky logy 5 rokov append-only (ideálne nezávislé úložisko alebo IPFS).
+
+ 
+
+Právna podpora: jednoduchá zmluva v miestnom jazyku, podpisy, jasné sankcie.
+
+ 
+
+ 
+
+ 
+
+---
+
+ 
+
+9. IMPLEMENTAČNÝ PLÁN (AKTUALIZOVANÝ) — D0 → D365
+
+ 
+
+D0 (hodiny) — OKAMŽITE:
+
+ 
+
+Skopíruj tento text do LibreOffice a nastav štýly podľa začiatku.
+
+ 
+
+Vytvor Deník dopadov (spreadsheet) s hlavičkami.
+
+ 
+
+Vyber 1 pilotný projekt (najmenší dopad) a spusti checklist.
+
+ 
+
+ 
+
+D1–D7 (prvý týždeň):
+
+ 
+
+Zaznamenaj pilot do Deníka.
+
+ 
+
+Vykonaj MRR: oslovenie min. 3 relevantných aktérov.
+
+ 
+
+Spíš SEK návrh (aj micro-SEK).
+
+ 
+
+ 
+
+D8–D30 (1 mesiac):
+
+ 
+
+Vyhodnoť prvý audit (30 dní).
+
+ 
+
+Upraviť váhy kalkulácií (IV váha, E váha) podľa reality.
+
+ 
+
+Zorganizuj 1 školenie pre komunitu (3–6 lekcií).
+
+ 
+
+ 
+
+D31–D90 (3 mesiace):
+
+ 
+
+Rozšír systém na 3–5 pilotov.
+
+ 
+
+Zriaď jednoduchý oversight panel.
+
+ 
+
+Uprav právnu šablónu SEK.
+
+ 
+
+ 
+
+D91–D365 (rok):
+
+ 
+
+Škálovanie, právne zakotvenie, revízie prahov.
+
+ 
+
+Pravidelné ročné audity, red-team testy AI.
+
+ 
+
+ 
+
+ 
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10. STROJOVO-PRIATEĽNÉ PRÍLOHY
+
+ 
+
+XML ukážka (vložiť ako manifest_machine.xml)
+
+ 
+
+<hexagramon>
+
+  <meta>
+
+    <title>HEXAGRAMON</title>
+
+    <version>1.0</version>
+
+    <date>2025-09-20</date>
+
+  </meta>
+
+  <axioms>
+
+    <axiom id="existencia"><statement>Kto nerešpektuje život...</statement><indicator id="IZ"/></axiom>
+
+    <axiom id="mudrost"><statement>Kto sa nedokáže naučiť...</statement><indicator id="IU"/></axiom>
+
+    <axiom id="vzajomnost"><statement>Nič nemôže rásť osamotene...</statement><indicator id="IV"/></axiom>
+
+    <axiom id="pravda"><statement>Čo je postavené na klame...</statement><indicator id="PI"/></axiom>
+
+    <axiom id="sloboda"><statement>Kto popiera slobodu iného...</statement><indicator id="FI"/></axiom>
+
+    <axiom id="jednota"><statement>Čo je oddelené, raz sa navráti...</statement><indicator id="UI"/></axiom>
+
+  </axioms>
+
+</hexagramon>
+
+ 
+
+JSON schema (log record) — hexagramon_log.json (návrh)
+
+ 
+
+{
+
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "Hexagramon Decision Log",
+
+  "type": "object",
+
+  "properties": {
+
+    "action_id": {"type": "string"},
+
+    "timestamp": {"type": "string", "format": "date-time"},
+
+    "inputs": {
+
+      "type": "object",
+
+      "properties": {
+
+        "IZ": {"type": "number"},
+
+        "IU": {"type": "number"},
+
+        "P": {"type": "number"},
+
+        "R": {"type": "number"},
+
+        "S": {"type": "number"},
+
+        "E": {"type": "number"},
+
+        "PI": {"type": "number"},
+
+        "FI": {"type": "number"}
+
+      },
+
+      "required": ["IZ","PI"]
+
+    },
+
+    "computed": {
+
+      "type":"object",
+
+      "properties": {"IV_raw":{"type":"number"}, "IV_norm":{"type":"number"}, "UI":{"type":"number"}}
+
+    },
+
+    "decision": {"type":"string","enum":["ACCEPT","CONDITIONAL","REJECT"]},
+
+    "conditions": {"type":"array","items":{"type":"string"}},
+
+    "explain": {"type":"string"},
+
+    "audit_links": {"type":"array","items":{"type":"string"}}
+
+  },
+
+  "required":["action_id","timestamp","inputs","computed","decision"]
+
+}
+
+ 
+
+ 
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+11.  JEDNOSTRÁNKOVÝ NÁVOD PRE KOMUNITY (PRINT-READY)
+
+ 
+
+Tento krátky list vystrihni a zaves:
+
+ 
+
+1.  Pred akciou: Vyplň Decision Checklist.
+
+ 
+
+ 
+
+2.  Vypočítaj IV (použi šablónu).
+
+ 
+
+ 
+
+3.  Ak IZ < 30 alebo PI < 50 — STOP.
+
+ 
+
+ 
+
+4.  Ak IV < 40 — volej MRR, navrhni SEK.
+
+ 
+
+ 
+
+5.  Vykonaj záznam do Deníka a nastav audit (30/90/365).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+---
+
+ 
+
+12.  AKČNÝ PLÁN — 10 KROKOV, KTORÉ MUSÍŠ UROBIŤ TERAZ
+
+ 
+
+1.     Skopíruj celý tento text do LibreOffice.
+
+ 
+
+ 
+
+2.     Nastav štýly podľa oddielu „Formát a štýly“.
+
+ 
+
+ 
+
+3.     Vytvor Deník dopadov (spreadsheet) s hlavičkami.
+
+ 
+
+ 
+
+4.     Vyber 1 pilotný projekt (najmenší dopad).
+
+ 
+
+ 
+
+5.     Vypočítaj IZ, IV, IU, PI, FI podľa šablóny.
+
+ 
+
+ 
+
+6.     Spusti Hexagramový filter — rozhodni ACCEPT/CONDITIONAL/REJECT.
+
+ 
+
+ 
+
+7.     Ak CONDITIONAL — implementuj podmienky a zaznamenaj to.
+
+ 
+
+ 
+
+8.     Po 30 dňoch sprav audit a zverejni lekciu.
+
+ 
+
+ 
+
+9.     Pozvi 3 susedov / členov komunity (MRR) na zhodnotenie.
+
+ 
+
+ 
+
+10.  Zdieľaj výsledok verejne (lokálne nástenky / online).
+
+ 
+
+ 
+
+ 
+
+ 
+
+---
+
+ 
+
+13.  UPOZORNENIA / ZÁRUKY / ETICKÉ POZNÁMKY
+
+ 
+
+Hexagramon je nástroj — nie zacielené právne riešenie. Pre právne záväzné kroky konzultuj právnika.
+
+ 
+
+Hodnoty prahov sú návrhy; uprav ich podľa lokálnych podmienok.
+
+ 
+
+AI implementácia musí byť auditovaná nezávislým tímom (red-team).
+
+ 
+
+Pri rozhodnutiach s celoštátnym alebo medzinárodným dopadom vyžaduj odborné posúdenie.
+
+ Dodatok: ___
+
+Axiomy sa transformujú na kombináciu (a) trvalých pravidiel na úrovni inference (hard constraints / filters), (b) optimalizačných cieľov počas tréningu (soft constraints / reward modely) a (c) externých procesov zodpovednosti (audit, denník dopadov, ľudský oversight).
+
+
+
+2) Konkrétne technické komponenty a ich úloha
+
+
+
+1. Symbolická pravidlová vrstva (inference-time filter)
+
+
+
+Implementovať modul, ktorý každú odpoveď kontroluje proti jednoduchým „nepriechodným“ pravidlám (napr. priame podnecovanie násilia, ignorovanie základného indexu ochrany života).
+
+
+
+Výhoda: okamžité zablokovanie zjavne nekompatibilných výstupov. Nevýhoda: rigidita, ťažké pokrytie všetkých situácií.
+
+
+
+
+
+
+
+2. Reward model / RLHF rozšírený o axiomy
+
+
+
+Trénovať reward model, ktorý hodnotí výstupy podľa metrik spojených s axiomy (Truth score, Life index proxy, Reciprocity score). Použiť RLHF alebo PPO tak, aby model preferoval odpovede, ktoré zvyšujú skóre.
+
+
+
+Výhoda: model sa naučí preferovať axiomatické riešenia. Nevýhoda: potreba kvalitného datasetu a ľudských hodnotiteľov, ktorí rozumejú axiém.
+
+
+
+
+
+
+
+3. Fine-tuning na špecifické scenáre (domain adapters)
+
+
+
+Mať modulárne adaptéry (LoRA/adapter layers) pre rôzne aplikácie — napr. „community decision support“, „environmental audit assistant“, „legal advisory lite“. Každý adapter nesie lokálnu kalibráciu prahov axiém.
+
+
+
+Výhoda: flexibilita bez retrénovania celého modelu.
+
+
+
+
+
+
+
+4. Kontradiktórny modul (conflict-resolver)
+
+
+
+Pri konflikte axiém (napr. sloboda vs ochrana života) použiť váhovanú agregáciu s transparentnou tabuľkou váh a metódou tie-breaking (napr. preferovať vyššiu „Life index“ pri riziku bezprostrednej ujmy). Váhy musí definovať governance board, nie model.
+
+
+
+
+
+
+
+5. Provenance & explainability
+
+
+
+Každá odpoveď obsahuje krátku stopu dôkazov: ktoré axiomy vstúpili do rozhodovania, aké skóre sa vypočítalo, aké dátové zdroje (ak existujú) boli použité.
+
+
+
+Umožniť audit log: otázka, odpoveď, skóre, verzia modelu, timestamp.
+
+
+
+
+
+
+
+6. Externý audit / denný záznam dopadov (impact diary)
+
+
+
+Automaticky generovaný denník dopadov pre relevantné rozhodnutia, ktorý sa verifikuje ľudsky. Do zápisu patrí posúdenie environmentálnych, sociálnych a právnych rizík.
+
+
+
+
+
+
+
+7. Human-in-the-loop (HITL)
+
+
+
+Pre rozhodnutia nad určitou prahovou hodnotou (napr. Life index < X alebo veľké potenciálne škody) blokovať automatickú akciu a poslať na revíziu človeku.
+
+
+
+
+
+
+
+8. Monitoring + online learning guardrails
+
+
+
+Telemetria: sledovať zmeny v pravdivostnom skóre, frekvenciu overrides, drift v reward signáloch. Pri odchýlkach automaticky spustiť rollback alebo ďalší audit.
+
+
+
+
+
+
+
+
+
+3) Ako sa to technicky urobí (krok-po-kroku)
+
+
+
+1. Definícia metrik — konkretizovať 4–8 merateľných metrik (TruthScore, LifeProxy, UnityProxy, Reciprocity). Dobre definovať zdroje dát a proxy indikátory.
+
+
+
+
+
+2. Datasety a hodnotitelia — pripraviť trénovacie / hodnotiace datasety s príkladmi „dobrého“ vs „závadného“ správania podľa axiém. Zorganizovať tím hodnotiteľov, ktorí rozumejú filozofii Hexagramonu.
+
+
+
+
+
+3. Tréning reward modelu a RLHF — integrovať nové hodnotenia do RLHF procesu. Testovať v sandboxe.
+
+
+
+
+
+4. Nasadenie inference-time pravidiel — paralelne nasadiť symbolickú vrstvu, ktorá chráni pred najhoršími porušeniami.
+
+
+
+
+
+5. Vytvorenie governance procesu — board (technický + etický + komunitný) definuje váhy, revízne procedúry, sankcie.
+
+
+
+
+
+6. Pilot — obmedzené nasadenie vo vybranej doméne (napr. komunita, malá organizácia), zbierať dáta a upravovať prahy.
+
+
+
+
+
+7. Škálovanie a monitoring — rozšíriť, updateovať metriky, pravidelne audítovať.
+
+
+
+
+
+
+
+4) Hlavné technické a praktické riziká (bez obalu)
+
+
+
+Nemôže sa úplne odstrániť hallucination — RLHF a pravidlá znižujú frekvenciu, nezaručia vymazanie.
+
+
+
+Proxy metriky klamú — „Life proxy“ a iné budú vždy nepriame; dať im váhu je riskantné.
+
+
+
+Value drift a gaming — aktéri môžu prispôsobovať vstupy tak, aby prešli metrikami pri skrytých škodách.
+
+
+
+Náklady — dátové zbery, hodnotitelia, monitoring a audity stoja peniaze a čas. Bez zdrojov ostane len ornament.
+
+
+
+Právna a spoločenská zodpovednosť — rozhodnutie, kde zodpovednosť kon
+
+čí: model, tvorca modelu, poskytovateľ služby alebo koncový užívateľ? Musí to byť právne jasné.
+
+ (Pre verziu Hexagramonu axiomu 2.0 z 7 axiomou č0, budúci návrh v procese)
+
+
+ 
+
+ 
+
+ 
+
+14.  ZÁVER A VÝZVA K ČINU
+
+ 
+
+                    
+
+HEXA6RAMON AXIOM
+ 
+
+ ti dáva jasný mechanizmus — nie na to, aby ťa spútal, ale aby ťa oslobodil konať správne: chrániť život, učiť sa, brať ohľad na sieť, stavať na pravde, zachovať slobodu a hľadať
+
+jednotu. Ak urobíš hoci len prvý krok z akčného plánu, urobil si viac než mnoho iných.
+
+ 
+
+ 
+
+ Poznámky autora: "premna ako jednotlivca, z chybami v texte, neupravený, za pochodu platany, systém axióm .. Viete, som len tiež človek a už teraz z toho mám taký bordel v hlave, že môže to mať chyby, nenaviazanosti, môže to byť až príliš komplexné, je toho proste mnoho .. Ak sa to niekam dostane,niekto to zapracuje, alebo pomôže to k niečo, budúcnosti, tak som vyhral už dnes, a Vy, ktorí sa k tomu dostanete, ste možno víťazmi už dnes tiež.
+
+Myslím si že určite existujú lepšie systému (možno), múdrejší ľudia (určite) ktorí by to mohli zlepšiť,upraviť a možno jedného dňa, nebude existovať žiadna sila ktorá by cez to prešla :) 
+
+Tisicere díky :), Richard Fonfára
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+---
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Licencia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Copyright © 2025 Richard Fonfára 
+
+Tento dokument je licencovaný pod Creative Commons Attribution‑NoDerivatives 4.0 International (CC BY‑ND 4.0).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-  Môžete:  
+
+-  Kopírovať a šíriť tento dokument v akomkoľvek médiu alebo formáte.  
+
+-  Používať ho na osobné, vzdelávacie, výskumné a nekomerčné účely aj komerčne.
+
+ 
+
+-  Musíte:  
+
+-  Uviesť autora („Richard Fonfára – Hexagramon Axiom “).  
+
+-  Zachovať dokument v nezmenenej podobe (žiadne úpravy, skrátenia, doplnenia).
+
+ 
+
+-  Nesmiete:  
+
+-  Meniť, upravovať alebo vytvárať odvodené diela z tohto dokumentu.  
+
+-  Odstraňovať meno autora alebo názov diela.
+
+ 
+
+Plné znenie licencie: https://creativecommons.org/licenses/by-nd/4.0/
+
+ 
